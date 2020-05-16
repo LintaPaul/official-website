@@ -7,7 +7,6 @@
 
 <script>
 import Header from '~/components/Header'
-
 export default {
   components: {
     Header
@@ -15,5 +14,6 @@ export default {
 }
 </script>
 
-<style>
+<style lang='scss'>
+
 </style>
